@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ciao, sono Luca Forcella 
 
-<!--
-**luca-for/luca-for** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uno sviluppatore Web freelance specializzato in creazione siti moderni e veloci per attività locali
 
-Here are some ideas to get you started:
+## 🛠️ Tech
+-- Frontend: Next.js, React, Tailwind CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-- Backend/CMS: Sanity.io, Vercel  
+
+-- Tools: GitHub, VS Code
+
+## 💬 Contatti
+📣 Per collaborazioni o progetti contattami!  
+
+-📧  Email: [Luca.Forcella.Dev@gmail.com](mailto:Luca.Forcella.Dev@gmail.com)
