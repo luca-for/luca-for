@@ -1,6 +1,6 @@
 # Ciao, sono Luca Forcella 
 
-Uno sviluppatore Web freelance specializzato in creazione di siti moderni e veloci
+Uno sviluppatore Web freelance specializzato in creazione di siti web
 
 ## 🛠️ Tech
 -- Frontend: Next.js, React, Tailwind CSS  
