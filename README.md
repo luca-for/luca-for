@@ -3,7 +3,7 @@
 Uno sviluppatore Web freelance specializzato in creazione di siti web
 
 ## 🛠️ Tech
--- Frontend: Next.js, React, Tailwind CSS  
+-- Frontend: Next.js, JavaScript Tailwind CSS  
 
 -- Backend/CMS: Sanity.io, Vercel  
 
