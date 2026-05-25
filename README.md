@@ -13,7 +13,7 @@
 
 ### Tools & Infrastruttura
 * **Package Manager:** pnpm/npm
-* **Hosting & Cloud:** Vercel (Continuous Integration / Continuous Deployment)
+* **Hosting & Cloud:** Vercel 
 
 ---
 
