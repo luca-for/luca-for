@@ -21,4 +21,4 @@
 
 * **Salone di Bellezza & Dynamic CMS:** Landing page commerciale performante collegata a Sanity CMS. Include la logica per la gestione dinamica del menù trattamenti, una gallery personalizzabile e un banner promozionale condizionale.
 * **Bar Concept (Client Portal):** Piattaforma web ad alte prestazioni per i clienti del locale con menù interattivo, filtri di ricerca in tempo reale e form di prenotazione tavoli integrato con Supabase.
-* **Bar Concept (Staff Dashboard):** Applicazione mobile nativa sviluppata in React Native ed Expo per il personale di sala. Gestisce le prenotazioni con sincronizzazione realtime e notifiche push acustiche immediate sul dispositivo, inoltre vi è la possiblità di cambiare il menu aggiornando le voci già presenti o aggiungendone nuove.
+* **Bar Concept (Staff Dashboard):** Applicazione mobile nativa sviluppata in React Native ed Expo per il personale di sala. Gestisce le prenotazioni con sincronizzazione realtime e notifiche push acustiche immediate sul dispositivo, inoltre vi è la possibilità di cambiare il menu aggiornando le voci già presenti o aggiungendone nuove.
