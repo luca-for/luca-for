@@ -3,7 +3,7 @@
 ### Frontend & Mobile Development
 * **Linguaggi:** JavaScript (ES6+), TypeScript
 * **Framework & Librerie:** React, Next.js, React Native
-* **Mobile Ecosystem:** Expo, Sviluppo Cross-Platform Nativo, Gestione Asset
+* **Mobile Ecosystem:** Expo, EAS build Android, Gestione Asset
 * **Styling & Animazioni:** Tailwind CSS, GSAP
 
 ### Backend, Database & CMS
